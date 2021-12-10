@@ -1,5 +1,6 @@
 Displays de 7 segmentos basado en Neopixel
 
+![pcb](https://user-images.githubusercontent.com/44323612/145526439-f859a963-e5e5-49be-ac2c-f8c246e84fac.png)
 
 Librería para controlar Displays de 7 Segmentos, basados en Neopixel, compatible con Arduino.
 
